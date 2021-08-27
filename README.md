@@ -8,4 +8,4 @@ This repo holds the source files for my portfolio websites. You can access my po
 * GitHub Pages
 
 ## Contact
-Created by [@titus](https://www.linkedin.com/in/titus-chin-jun-hong/) - feel free to contact me!
+Created by [Titus Chin](https://www.linkedin.com/in/titus-chin-jun-hong/), feel free to contact me!
