@@ -2,7 +2,7 @@ Portfolio Website
 =================
 This repo holds the source files for my portfolio websites. You can access my portfolio [here](https://titus-chin.github.io).
 
-## Technology
+## Technologies
 * HTML
 * CSS
 * GitHub Pages
