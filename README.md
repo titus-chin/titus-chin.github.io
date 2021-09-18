@@ -5,6 +5,8 @@ This repo holds the source files for my portfolio websites. You can access my po
 ## Technologies
 * HTML
 * CSS
+* SCSS
+* JavaScript
 * GitHub Pages
 
 ## Contact
