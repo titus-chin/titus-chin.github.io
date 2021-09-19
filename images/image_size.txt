@@ -1,1 +1,1 @@
-All image should be resized to 1080x720.
+All images should be resized to 1080x720.
